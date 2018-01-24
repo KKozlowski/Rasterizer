@@ -286,3 +286,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/CV17/render.tga
+/CV17/renderDepth.tga
